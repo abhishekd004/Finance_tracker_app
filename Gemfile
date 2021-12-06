@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'jquery-rails'
-
+gem 'iex-ruby-client'
 
 
 # Use Active Storage variant
